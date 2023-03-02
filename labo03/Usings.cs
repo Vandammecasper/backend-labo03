@@ -1,0 +1,12 @@
+global using System;
+global using MongoDB.Bson.Serialization.Attributes;
+global using MongoDB.Bson;
+global using labo03.Models;
+global using Microsoft.Extensions.Options;
+global using MongoDB.Driver;
+global using labo03.Configuration;
+global using labo03.repositories;
+global using labo03.DataContext;
+global using labo03.services;
+global using labo03.GraphQL.Queries;
+global using labo03.GraphQL.Mutations;
